@@ -1,18 +1,15 @@
-﻿2015/04/20 21:32:30 にビルドを開始しました。
-     1>ノード 2 上のプロジェクト "C:\Users\nishida.masashi\Desktop\goto_loop\test\test.vcxproj" (build ターゲット)。
+﻿2015/04/21 8:33:04 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\nishida.masashi\Desktop\Goto_Loop-master\goto_loop\test\test.vcxproj" (build ターゲット)。
      1>InitializeBuildStatus:
          "AlwaysCreate" が指定されたため "Debug\test.unsuccessfulbuild" を作成しています。
        ClCompile:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\test.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
+         すべての出力が最新のものです。
          c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\test.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
          test.cpp
-     1>c:\users\nishida.masashi\desktop\goto_loop\test\test.cpp(11): warning C4102: 'lj' : ラベルは 1 度も参照されません。
-     1>c:\users\nishida.masashi\desktop\goto_loop\test\test.cpp(10): warning C4102: 'li' : ラベルは 1 度も参照されません。
        ManifestResourceCompile:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\test.exe.embed.manifest.res" Debug\test_manifest.rc 
+         すべての出力が最新のものです。
        Link:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nishida.masashi\Desktop\goto_loop\Debug\test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\nishida.masashi\Desktop\goto_loop\Debug\test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nishida.masashi\Desktop\goto_loop\Debug\test.lib" /MACHINE:X86 Debug\test.exe.embed.manifest.res
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nishida.masashi\Desktop\Goto_Loop-master\goto_loop\Debug\test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\nishida.masashi\Desktop\Goto_Loop-master\goto_loop\Debug\test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nishida.masashi\Desktop\Goto_Loop-master\goto_loop\Debug\test.lib" /MACHINE:X86 Debug\test.exe.embed.manifest.res
          Debug\stdafx.obj
          Debug\test.obj
        Manifest:
@@ -20,12 +17,12 @@
          すべての出力が最新のものです。
        LinkEmbedManifest:
          すべての出力が最新のものです。
-         test.vcxproj -> C:\Users\nishida.masashi\Desktop\goto_loop\Debug\test.exe
+         test.vcxproj -> C:\Users\nishida.masashi\Desktop\Goto_Loop-master\goto_loop\Debug\test.exe
        FinalizeBuildStatus:
          ファイル "Debug\test.unsuccessfulbuild" を削除しています。
          "Debug\test.lastbuildstate" のタッチ タスクを実行しています。
-     1>プロジェクト "C:\Users\nishida.masashi\Desktop\goto_loop\test\test.vcxproj" (build ターゲット) のビルドが完了しました。
+     1>プロジェクト "C:\Users\nishida.masashi\Desktop\Goto_Loop-master\goto_loop\test\test.vcxproj" (build ターゲット) のビルドが完了しました。
 
 ビルドに成功しました。
 
-経過時間 00:00:05.00
+経過時間 00:00:01.64
